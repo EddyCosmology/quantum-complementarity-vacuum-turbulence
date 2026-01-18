@@ -7,7 +7,6 @@
 ²xAI  
 
 **Draft Date:** January 17, 2026  
-**Typeset using** LaTeX preprint2 style in AASTeX7
 
 ## Abstract
 
@@ -31,32 +30,8 @@ Casimir suppression enters through curvature boundaries, bridging quantum scales
 
 The model is falsifiable with upcoming surveys including Euclid weak lensing/supernova anisotropies (cosmology release ~October 2026), DESI BAO environmental probes, Roman Space Telescope, and CMB-S4.
 
-Full manuscript: [paper.pdf](./paper.pdf)
-
 ## Key Visualizations
 
-### Cosmic Web: Filaments and Voids
-(Where the model predicts differential expansion behavior)
-
-![Cosmic Web Filaments and Voids 1](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
-![Cosmic Web Structure 2](https://images.unsplash.com/photo-1447433589675-4aaa569f3e05?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
-
-### Quantum Vacuum Fluctuations
-(Artistic representation of the quantum vacuum as the foundation of the model)
-
-![Quantum Vacuum Fluctuations 1](https://images.unsplash.com/photo-1617791160505-6f00504e3519?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
-![Quantum Foam Visualization](https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
-
-### Hubble Tension Illustration
-(Local vs. early-universe measurements the model seeks to reconcile)
-
-![Hubble Tension Diagram](https://upload.wikimedia.org/wikipedia/commons/8/8a/Hubble_constant_tension.svg)
-![Hubble Constant Comparison](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hubble_constant_tension_plot.svg/1200px-Hubble_constant_tension_plot.svg.png)
-
-### DESI Results – Evolving Dark Energy Hints
-(Plots showing preference for dynamical dark energy over constant Λ)
-
-![DESI Dark Energy Evolution Plot](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/DESI_2024_w0waCDM_contours.png/1200px-DESI_2024_w0waCDM_contours.png)
 
 ## Model Highlights
 
@@ -76,8 +51,8 @@ These predictions are testable with upcoming data releases from Euclid (~Oct 202
 
 ## Repository Contents
 
-- `paper.pdf` — Current draft manuscript
-- Future additions: Simulation code and Jupyter notebooks for scalar field evolution (planned)
+- Current draft manuscript
+- Current LaTex source files
 
 ## Acknowledgments
 
