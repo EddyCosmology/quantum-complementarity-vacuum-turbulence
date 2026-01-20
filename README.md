@@ -55,10 +55,6 @@ It is at the level of many phenomenological dark energy proposals published on a
 - Stability analysis for higher-derivative term (ghost mass, timescale)
 - Full non-Gaussianity and CMB lensing predictions
 
-## How to Use This Repository
-
-- `preprint.tex` — AAS TeX preprint draft
-- `references.bib` — BibTeX bibliography
 
 Contributions, extensions, or criticism welcome.
 
